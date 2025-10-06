@@ -1,1 +1,1 @@
-Sprite text project
+Sprite text projet 
